@@ -27,6 +27,7 @@ First create a clean virtualenv
   pip install pyyaml
   pip install toposort
   pip install vtk
+  pip install matplotlib
   ```
 
 You can optionally compile our cuda backprojection operator by running
